@@ -319,14 +319,9 @@ The Doctor's Appointment Application is a Spring Boot-based system that simplifi
 
 The application is built on a solid foundation, utilizing Spring Boot and MySQL for data storage, and it follows best practices for clean code, separation of concerns, and secure user data handling.
 
-### License
-
-This project is licensed under the [BSD 3-Clause License](LICENSE).
 
 ### Acknowledgments
 
 We would like to thank the Spring Boot and Java communities for providing excellent tools, frameworks, and resources that have contributed to the development of this project.
 
-### Contact
 
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
